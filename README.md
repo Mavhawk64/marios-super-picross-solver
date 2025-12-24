@@ -1,2 +1,0 @@
-# marios-super-picross-solver
- 
